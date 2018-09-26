@@ -1,0 +1,11 @@
+/home/sikorskim/Documents/repos/inventory/bin/Debug/netcoreapp2.1/inventory.deps.json
+/home/sikorskim/Documents/repos/inventory/bin/Debug/netcoreapp2.1/inventory.runtimeconfig.json
+/home/sikorskim/Documents/repos/inventory/bin/Debug/netcoreapp2.1/inventory.runtimeconfig.dev.json
+/home/sikorskim/Documents/repos/inventory/bin/Debug/netcoreapp2.1/inventory.dll
+/home/sikorskim/Documents/repos/inventory/bin/Debug/netcoreapp2.1/inventory.pdb
+/home/sikorskim/Documents/repos/inventory/obj/Debug/netcoreapp2.1/inventory.csprojAssemblyReference.cache
+/home/sikorskim/Documents/repos/inventory/obj/Debug/netcoreapp2.1/inventory.csproj.CoreCompileInputs.cache
+/home/sikorskim/Documents/repos/inventory/obj/Debug/netcoreapp2.1/inventory.AssemblyInfoInputs.cache
+/home/sikorskim/Documents/repos/inventory/obj/Debug/netcoreapp2.1/inventory.AssemblyInfo.cs
+/home/sikorskim/Documents/repos/inventory/obj/Debug/netcoreapp2.1/inventory.dll
+/home/sikorskim/Documents/repos/inventory/obj/Debug/netcoreapp2.1/inventory.pdb
